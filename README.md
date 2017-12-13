@@ -1,4 +1,8 @@
-# Firebase Codelab: FriendlyChat
+# Introduction
+
+This repository is created for the completion of [Homework-2 Unit Testing]()
+
+## Firebase Codelab: FriendlyChat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
 code for Objective-C and Swift. To get started open the codelab instructions:
